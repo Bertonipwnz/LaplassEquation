@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Laplass\bin\Release\Laplass.exe.config
+C:\Users\User\source\repos\Laplass\bin\Release\Laplass.exe
+C:\Users\User\source\repos\Laplass\bin\Release\Laplass.pdb
+C:\Users\User\source\repos\Laplass\obj\Release\Laplass.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Laplass\obj\Release\Laplass.exe
+C:\Users\User\source\repos\Laplass\obj\Release\Laplass.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Laplass\bin\Debug\Laplass.exe.config
+C:\Users\User\source\repos\Laplass\bin\Debug\Laplass.exe
+C:\Users\User\source\repos\Laplass\bin\Debug\Laplass.pdb
+C:\Users\User\source\repos\Laplass\obj\Debug\Laplass.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Laplass\obj\Debug\Laplass.exe
+C:\Users\User\source\repos\Laplass\obj\Debug\Laplass.pdb
+C:\Users\User\source\repos\Laplass\obj\Debug\Laplass.csproj.CoreCompileInputs.cache
